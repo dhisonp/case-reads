@@ -8,6 +8,7 @@ The list will be categorized into _use cases_.
 
 - [Grokking the Coding Interview](https://aws.amazon.com/blogs/opensource/using-a-postgresql-database-with-amazon-rds-and-spring-boot/)
 - [Don't Just LeetCode; Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
+- [System Design Concepts](https://medium.com/gitconnected/6-system-design-interview-concepts-1b1882506766)
 
 ## Documentation and Logistics
 
