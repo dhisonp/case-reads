@@ -60,3 +60,7 @@ The list will be categorized into _use cases_.
 
 - [GitHub Branching Standards](https://gist.github.com/digitaljhelms/4287848)
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html#camel-case)
+
+## Tech-specific
+
+- [Top 8 Best Practices in Laravel](https://medium.com/@felixdavid12/top-8-best-practices-in-laravel-and-one-extra-tip-308f01f159b4)
