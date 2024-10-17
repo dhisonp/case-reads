@@ -69,3 +69,4 @@ The list will be categorized into _use cases_.
 ### Tech-specific
 
 - [Top 8 Best Practices in Laravel](https://medium.com/@felixdavid12/top-8-best-practices-in-laravel-and-one-extra-tip-308f01f159b4)
+- [Slack - Taking PHP Seriously](https://slack.engineering/taking-php-seriously/)
