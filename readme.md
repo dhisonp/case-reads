@@ -54,6 +54,7 @@ The list will be categorized into _use cases_.
 
 - [Paco Coursey](https://paco.me/)
 - [erlemar.github.io | Data Science Portfolio](https://erlemar.github.io/)
+- [Dan Matthews](https://danmatthews.me)
 
 ### Softwares of Interest
 
@@ -65,6 +66,7 @@ The list will be categorized into _use cases_.
 
 - [GitHub Branching Standards](https://gist.github.com/digitaljhelms/4287848)
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html#camel-case)
+- [Microsoft - Best Practices for Exceptions](https://learn.microsoft.com/en-us/dotnet/standard/exceptions/best-practices-for-exceptions)
 
 ### Tech-specific
 
