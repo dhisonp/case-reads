@@ -13,6 +13,10 @@ The list will be categorized into _use cases_.
 
 - [Awesome Tauri](https://github.com/tauri-apps/awesome-tauri)
 
+### Discussions
+
+- [Tightening Feedback Loop](https://www.reddit.com/r/ExperiencedDevs/comments/vtt6sw/i_have_found_that_one_of_the_biggest_quality_of/)
+
 ### Documentation and Logistics
 
 - [Tidy Documentation Makes Software Engineers More Effective](https://www.notion.so/blog/software-documentation-makes-engineers-effective)
