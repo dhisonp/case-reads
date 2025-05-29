@@ -59,6 +59,7 @@ The list will be categorized into _use cases_.
 - [Paco Coursey](https://paco.me/)
 - [erlemar.github.io | Data Science Portfolio](https://erlemar.github.io/)
 - [Dan Matthews](https://danmatthews.me)
+- [Nuno Maduro](https://nunomaduro.com/)
 
 ### Softwares of Interest
 
