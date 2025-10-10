@@ -41,6 +41,10 @@ The list will be categorized into _use cases_.
 - [Building and Scaling Notion's Datalake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 - [The Spotify Method for Scaling Agile](https://www.atlassian.com/agile/agile-at-scale/spotify)
 
+### Journals
+
+- [Write That Stupid Code](https://spikepuppet.io/posts/write-the-stupid-code/)
+
 ### Machine Learning and Artificial Intelligence
 
 - [mlcourse.ai](https://mlcourse.ai/book/index.html)
@@ -60,6 +64,7 @@ The list will be categorized into _use cases_.
 - [erlemar.github.io | Data Science Portfolio](https://erlemar.github.io/)
 - [Dan Matthews](https://danmatthews.me)
 - [Nuno Maduro](https://nunomaduro.com/)
+- https://dodov.dev/
 
 ### Softwares of Interest
 
