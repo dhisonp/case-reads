@@ -1,11 +1,14 @@
 # CaseReads
 
-This is but a personal compilation of reads related to software design, development, engineering, and what not.
-The list will be categorized into _use cases_.
+This is but a personal compilation of reads related to software design,
+development, engineering, and what not. The list will be categorized into _use
+cases_.
 
-### Career Development
+Career Development
 
 - [Grokking the Coding Interview](https://aws.amazon.com/blogs/opensource/using-a-postgresql-database-with-amazon-rds-and-spring-boot/)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Grind 75](https://www.techinterviewhandbook.org/grind75/)
 - [Don't Just LeetCode; Follow the Coding Patterns Instead](https://levelup.gitconnected.com/dont-just-leetcode-follow-the-coding-patterns-instead-4beb6a197fdb)
 - [System Design Concepts](https://medium.com/gitconnected/6-system-design-interview-concepts-1b1882506766)
 
@@ -16,6 +19,8 @@ The list will be categorized into _use cases_.
 ### Discussions
 
 - [Tightening Feedback Loop](https://www.reddit.com/r/ExperiencedDevs/comments/vtt6sw/i_have_found_that_one_of_the_biggest_quality_of/)
+- [Small PRs for large features](https://www.reddit.com/r/ExperiencedDevs/comments/1arr585/how_do_you_actually_implement_small_prs_for_a/)
+- [How to approach software development like professionals](https://www.youtube.com/watch?v=ltE30UmsBlY)
 
 ### Documentation and Logistics
 
@@ -30,22 +35,18 @@ The list will be categorized into _use cases_.
 ### Guides
 
 - [API Design 101](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)
-
-### Hackathons
-
-- [Supabase - Launch Week 7 Hackathon Winners](https://supabase.com/blog/launch-week-7-hackathon-winners)
+- [Designing a URL Shortener](https://newsletter.francofernando.com/p/designing-a-url-shortener)
 
 ### Industry Methods
 
 - [Atlassian - GitFlow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 - [Building and Scaling Notion's Datalake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 - [The Spotify Method for Scaling Agile](https://www.atlassian.com/agile/agile-at-scale/spotify)
+- [Feature Flags 101: Use Cases, Benefits, and Best Practices](https://launchdarkly.com/blog/what-are-feature-flags/)
+- [Git Feature Branch Workflow | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+- [Trunk Based Development](https://trunkbaseddevelopment.com/)
 
-### Journals
-
-- [Write That Stupid Code](https://spikepuppet.io/posts/write-the-stupid-code/)
-
-### Machine Learning and Artificial Intelligence
+### ML/AI
 
 - [mlcourse.ai](https://mlcourse.ai/book/index.html)
 - [Learn Pandas with Pokemons](https://www.kaggle.com/code/ash316/learn-pandas-with-pokemons)
@@ -64,8 +65,14 @@ The list will be categorized into _use cases_.
 - [erlemar.github.io | Data Science Portfolio](https://erlemar.github.io/)
 - [Dan Matthews](https://danmatthews.me)
 - [Nuno Maduro](https://nunomaduro.com/)
-- https://dodov.dev/
-- https://tonsky.me/
+- [Nicholas Nethercote](https://nnethercote.github.io/2025/07/18/looking-for-a-new-job.html)
+- [Made by Evan](https://madebyevan.com/)
+- [Birchtree](https://birchtree.me/)
+
+* ~https://shud.in/
+* ~https://www.ekzhang.com/
+* ~https://dcgross.com/]
+* ~[Gregory Schier](https://schier.co/)
 
 ### Softwares of Interest
 
@@ -73,7 +80,7 @@ The list will be categorized into _use cases_.
 - [Yaak - Now Open Source](https://yaak.app/blog/now-open-source)
 - [Yaak - Yet another REST client?](https://yaak.app/blog/yet-another-api-client)
 
-### Standards and Best Practices
+### Standards
 
 - [GitHub Branching Standards](https://gist.github.com/digitaljhelms/4287848)
 - [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html#camel-case)
@@ -83,3 +90,4 @@ The list will be categorized into _use cases_.
 
 - [Top 8 Best Practices in Laravel](https://medium.com/@felixdavid12/top-8-best-practices-in-laravel-and-one-extra-tip-308f01f159b4)
 - [Slack - Taking PHP Seriously](https://slack.engineering/taking-php-seriously/)
+- [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
