@@ -1,10 +1,10 @@
-# CaseReads
+# Case Reads
 
 This is but a personal compilation of reads related to software design,
 development, engineering, and what not. The list will be categorized into _use
 cases_.
 
-Career Development
+### Career Development
 
 - [Grokking the Coding Interview](https://aws.amazon.com/blogs/opensource/using-a-postgresql-database-with-amazon-rds-and-spring-boot/)
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
@@ -36,6 +36,7 @@ Career Development
 
 - [API Design 101](https://levelup.gitconnected.com/api-design-101-from-basics-to-best-practices-a0261cdf8886)
 - [Designing a URL Shortener](https://newsletter.francofernando.com/p/designing-a-url-shortener)
+- [Making Software](https://www.makingsoftware.com/)
 
 ### Industry Methods
 
@@ -91,3 +92,7 @@ Career Development
 - [Top 8 Best Practices in Laravel](https://medium.com/@felixdavid12/top-8-best-practices-in-laravel-and-one-extra-tip-308f01f159b4)
 - [Slack - Taking PHP Seriously](https://slack.engineering/taking-php-seriously/)
 - [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
+
+### Workflows
+
+- [Claude Code Beast](https://www.reddit.com/r/ClaudeCode/comments/1oivs81/claude_code_is_a_beast_tips_from_6_months_of/)
